@@ -21,6 +21,8 @@
 - spring-boot-starter-test
 - maven-failsafe-plugin
 
+== Test
+
 == Plan de test pour vérifier que "ça marche sur mon poste"
 
 ```bash
