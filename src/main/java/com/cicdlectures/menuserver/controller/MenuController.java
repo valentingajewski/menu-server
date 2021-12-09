@@ -19,7 +19,7 @@ import com.cicdlectures.menuserver.service.ListMenuService;
 import com.cicdlectures.menuserver.repository.MenuRepository;
 
 @RestController
-public class MenuController {
+public class MenuController 
 
   private final CreateMenuService createMenuService;
 
