@@ -16,3 +16,5 @@ jobs:
         with:
           name: menu-server
           path: ./target/menu-server.jar
+      - run: mvn test
+      - run: mvn verify -DskipUnitTests=true
